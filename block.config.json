@@ -22,6 +22,9 @@
     },
     "privateBlk": {
       "directory": "privateBlk"
+    },
+    "block_test": {
+      "directory": "block_test"
     }
   }
 }
