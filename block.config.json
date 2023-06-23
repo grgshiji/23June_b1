@@ -19,6 +19,9 @@
     },
     "Test_Package_Block": {
       "directory": "Test_Package_Block"
+    },
+    "privateBlk": {
+      "directory": "privateBlk"
     }
   }
 }
