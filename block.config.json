@@ -1,0 +1,23 @@
+{
+  "blockId": "yaEn4Jb0VfwsEGeTHkWSP",
+  "name": "Member_Fn_Block",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/23June_b1.git",
+    "ssh": "git@github.com:grgshiji/23June_b1.git",
+    "branch": "block_Member_Fn_Block"
+  },
+  "parentBlockIDs": [
+    "9N4ikWyS5Y3BaUPe1pfQJ"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "version": "0.0.1",
+  "versionId": "qjuufK3I3mZ1ZVoGRBP6C",
+  "variantOf": "qjuufK3I3mZ1ZVoGRBP6C"
+}
