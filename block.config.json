@@ -1,0 +1,33 @@
+{
+  "name": "Test_Package_Block",
+  "type": "package",
+  "blockId": "LbzBCYHjBni4egoNQkVcz",
+  "source": {
+    "https": "https://github.com/grgshiji/23June_b1.git",
+    "ssh": "git@github.com:grgshiji/23June_b1.git",
+    "branch": "block_Test_Package_Block"
+  },
+  "parentBlockIDs": [
+    "9N4ikWyS5Y3BaUPe1pfQJ"
+  ],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "Member_Fn_Block": {
+      "directory": "Member_Fn_Block",
+      "versionId": "qjuufK3I3mZ1ZVoGRBP6C",
+      "version": "0.0.1"
+    },
+    "Member_UI_Container_Block": {
+      "directory": "Member_UI_Container_Block",
+      "versionId": "xYR7lvTaQs15PWZ5HiKcs",
+      "version": "0.0.1"
+    }
+  },
+  "version": "0.0.1",
+  "versionId": "aCXRRyzbEVnhftfB1wfOH",
+  "variantOf": "aCXRRyzbEVnhftfB1wfOH"
+}
